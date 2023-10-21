@@ -9,7 +9,7 @@
 		<label for="angka">Masukkan Angka:</label> 
 		<input type="number" id="angka" name="angka">
 
-		<label for="dropdown">Dropdown</label>
+		<label for="dropdown">Operasi</label>
 		<select id="dropdown" name="pilihan">
 			<option value="pilihan1">+</option>
 			<option value="pilihan2">-</option>
